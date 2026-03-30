@@ -1,3 +1,4 @@
+# Attempt 1 and 3 used the following algorithm. Attempt 4 used an optimized version.
 #!/usr/bin/env python3
 from __future__ import annotations
 
